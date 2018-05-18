@@ -1,0 +1,8 @@
+.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+.Rhistory
+
+literature/

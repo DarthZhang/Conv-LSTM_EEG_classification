@@ -1,8 +1,9 @@
 *.pyc
-
+.idea/
 # Jupyter Notebook
 *.ipynb_checkpoints
 
 *.Rhistory
 
 literature/
+*tmp.py
